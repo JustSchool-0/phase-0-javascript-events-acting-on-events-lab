@@ -1,5 +1,4 @@
 const dodger = document.getElementById("dodger");
-const game = document.getElementById("game");
 
 dodger.style.backgroundColor = "#DD00FF"
 
